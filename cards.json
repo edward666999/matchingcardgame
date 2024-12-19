@@ -1,0 +1,12 @@
+[
+    {"image": "resources/b1.webp", "name": "K"},
+    {"image": "resources/b2.webp", "name": "J"},
+    {"image": "resources/b3.webp", "name": "Q"},
+    {"image": "resources/b5.webp", "name": "A diamond"},
+    {"image": "resources/b6.webp", "name": "A heart"}
+    {"image": "resources/b7.webp", "name": "two hearts"},
+    {"image": "resources/b8.webp", "name": "six nine"},
+    {"image": "resources/b9.webp", "name": "seven trees"},
+    {"image": "resources/b10.webp", "name": "ten diamonds"}
+];
+
